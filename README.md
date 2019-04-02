@@ -21,10 +21,10 @@ gihub上传图片格式
 start_url:
 这里我们找的账号地址是：https://www.zhihu.com/people/excited-vczh/answers
 我们抓取的大V账号的主要信息是：
-![知乎样例](https://github.com/ivat4u/scrapy-mongo-zhihu_user/image/997599-20170721023220693-1484269289.png)
+![知乎样例](https://github.com/ivat4u/scrapy-mongo-zhihu_user/blob/master/image/997599-20170721023220693-1484269289.png)
 
 利用网页模拟获取关注和粉丝信息
-![关注信息](https://github.com/ivat4u/scrapy-mongo-zhihu_user/image/997599-20170721023434521-2059770281.png)
+![关注信息](https://github.com/ivat4u/scrapy-mongo-zhihu_user/blob/master/image/997599-20170721023434521-2059770281.png)
 
 爬虫逻辑（其中strat用户有重复爬取一次粉丝和关注，代码中本人已经修改）
-![爬虫逻辑框架](https://github.com/ivat4u/scrapy-mongo-zhihu_user/image/997599-20170724113838477-494118700.png)
+![爬虫逻辑框架](https://github.com/ivat4u/scrapy-mongo-zhihu_user/blob/master/image/997599-20170724113838477-494118700.png)
